@@ -1,4 +1,4 @@
-Source code:
+
 create database Rainbow
 use Rainbow
 Create Table Student
